@@ -1,0 +1,6 @@
+@Mavericks_HostAddress = http://localhost:5068
+
+GET {{Mavericks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
